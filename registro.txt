@@ -1,0 +1,6 @@
+ana	retiro	202164766	1234
+pedro	ingreso	202012412	0987
+laura	informes	202002022	1209
+luis	retiro	202237545	4545
+diego	ingreso	202116140	6160
+juan	informes	202226140	0191
